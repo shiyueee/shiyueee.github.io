@@ -104,5 +104,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/shiyueee/shiyueee.github.io.git
-  branch: master
+  repo: git@personal.github.com:shiyueee/shiyueee.github.io.git
+  branch: gh-pages
+  name: shiyueee
+  email: ctee97327@gmail.com
